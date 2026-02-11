@@ -31,24 +31,25 @@ export function Experience() {
     >
       <div className="max-w-6xl mx-auto">
 
-        {/* Heading */}
-        <div className="text-center mb-12 animate-fade-in-up">
-          <div className="flex justify-center items-center gap-4 mb-6">
-            <Briefcase className="h-8 w-8 text-primary animate-float" />
-            <h2 className="text-4xl sm:text-5xl font-bold gradient-text-netflix">
-              Experience
-            </h2>
-            <TrendingUp className="h-8 w-8 text-primary animate-float animate-delay-300" />
-          </div>
-          <p className="text-xl text-muted-foreground max-w-2xl mx-auto">
-            Building technical expertise through hands-on development experience
-          </p>
-        </div>
+    
+       <div className="text-center mb-12 animate-fade-in-up">
+  <div className="flex justify-center items-center gap-4 mb-6">
+    <Briefcase className="h-8 w-8 text-primary animate-float" />
 
-        {/* Timeline */}
+    <h2 className="text-4xl sm:text-5xl font-bold 
+      bg-gradient-to-r from-red-600 via-pink-500 to-purple-600 
+      bg-clip-text text-transparent">
+      Experience
+    </h2>
+
+    <TrendingUp className="h-8 w-8 text-primary animate-float animate-delay-300" />
+  </div>
+
+  <p className="text-xl text-muted-foreground max-w-2xl mx-auto">
+    Building technical expertise through hands-on development experience
+  </p>
+</div>
         <div className="relative">
-
-          {/* Center Line */}
           <div className="hidden md:block absolute left-1/2 -translate-x-1/2 w-[2px] bg-gradient-to-b from-primary via-primary/50 to-transparent h-full animate-fade-in-up animate-delay-200" />
 
           <div className="space-y-12">
@@ -58,7 +59,6 @@ export function Experience() {
               return (
                 <div key={index} className="relative flex items-center">
 
-                  {/* Card */}
                   <div
                     className={`w-full md:w-1/2 ${
                       isLeft ? "md:pr-12" : "md:pl-12 md:ml-auto"
