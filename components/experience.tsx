@@ -4,6 +4,16 @@ import { Briefcase, Calendar, Building, TrendingUp } from "lucide-react"
 
 const experiences = [
   {
+    title: "Web Developer Intern",
+    company: "Laxyo Energy Pvt. Ltd.",
+    period: "March 2022 – April 2022",
+    description:
+      "Successfully completed an internship under the Web Developer Program, focusing on HTML ,CSS ,Javascript, Bootstrap and PHP. Worked on a client project involving scalable web solutions and gained hands-on experience in full-stack development under the guidance of Mr. SOurabh Joshi and Ms. Nehal Shikannia .",
+    technologies: ["HTML", "CSS", "JS", "PHP", "Bootstrap"],
+    color: "from-emerald-500 to-teal-600",
+    current: false,
+  },
+  {
     title: "Full Stack Developer Intern",
     company: "Amstech Incorporation Pvt. Ltd.",
     period: "July 2024 – January 2025",

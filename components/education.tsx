@@ -7,7 +7,7 @@ const education = [
     degree: "B.Tech Computer Science",
     school: "Institute of Engineering and Science, IPS Academy",
     period: "2023 – Present",
-    gpa: "6.8 CGPA",
+    gpa: "7.05 CGPA",
     description:
       "Currently pursuing Bachelor of Technology in Computer Science with strong focus on Full Stack Web Development, algorithms, and software engineering principles.",
     achievements: ["Current Student", "Strong Academic Performance", "Active in Co-curricular Activities"],
