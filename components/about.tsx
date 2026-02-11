@@ -17,7 +17,7 @@ export function About() {
                 take on added responsibilities to meet team goals while continuously enhancing my technical proficiency.
               </p>
               <p className="animate-fade-in-up animate-delay-400 text-lg">
-                Currently working as a Full Stack Developer Intern at Amstech Incorporation Pvt. Ltd., I focus on Java
+                I worked as a Full Stack Developer Intern at Amstech Incorporation Pvt. Ltd., I focused on Java
                 Technology (J2SE/J2EE), MySQL, and Angular 12. I have gained hands-on experience in full-stack
                 development under the mentorship of the CTO and co-founder.
               </p>
