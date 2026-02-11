@@ -8,7 +8,7 @@ const experiences = [
     company: "Laxyo Energy Pvt. Ltd.",
     period: "March 2022 – April 2022",
     description:
-      "Successfully completed an internship under the Web Developer Program, focusing on HTML ,CSS ,Javascript, Bootstrap and PHP. Worked on a client project involving scalable web solutions and gained hands-on experience in full-stack development under the guidance of Mr. SOurabh Joshi and Ms. Nehal Shikannia .",
+      "Successfully completed an internship under the Web Developer Program, focusing on HTML ,CSS ,Javascript, Bootstrap and PHP. Worked on a client project involving scalable web solutions and gained hands-on experience in full-stack development under the guidance of Mr. SOurabh Joshi and Ms. Nehal Shikannia.",
     technologies: ["HTML", "CSS", "JS", "PHP", "Bootstrap"],
     color: "from-emerald-500 to-teal-600",
     current: false,
