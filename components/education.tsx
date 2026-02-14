@@ -10,17 +10,17 @@ const education = [
     gpa: "7.05 CGPA",
     description:
       "Currently pursuing Bachelor of Technology in Computer Science with strong focus on Full Stack Web Development, algorithms, and software engineering principles.",
-    achievements: ["Current Student", "Strong Academic Performance", "Active in Co-curricular Activities"],
+    achievements: ["Current Student", "Strong Practical Skills", "Active in Co-curricular Activities"],
     color: "from-blue-500 to-indigo-600",
     prestigious: true,
   },
   {
-    degree: "Diploma in Engineering",
+    degree: "Diploma in Computer Science and Engineering",
     school: "Shri Vaishnav Polytechnic College, RGPV Board",
     period: "2020 – 2023",
     gpa: "76.7%",
     description:
-      "Completed Diploma in Engineering with excellent academic performance, building strong foundation in technical concepts and practical applications.",
+      "Completed Diploma in CSE with excellent academic performance, building strong foundation in technical concepts and practical applications.",
     achievements: ["First Class with Distinction", "Strong Technical Foundation", "Practical Skills Development"],
     color: "from-green-500 to-teal-600",
     prestigious: false,

@@ -41,9 +41,7 @@ export function Hero() {
             </span>
           </h2>
           <p className="text-lg sm:text-xl text-muted-foreground mb-12 max-w-2xl mx-auto leading-relaxed animate-fade-in-up animate-delay-400 hover:text-foreground transition-colors duration-300">
-            B.Tech Computer Science student with strong expertise in Full Stack Web Development. Organized and
-            dependable candidate successful at managing priorities with a positive attitude, willing to take on added
-            responsibilities to meet team goals.
+            A B.Tech Computer Science student with strong expertise in Full Stack Web Development. 
           </p>
         </div>
 
